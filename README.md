@@ -1,5 +1,7 @@
+
+
 # Convert OpenWebStart deb package to rpm
-This project just converting prebuilded deb package to rpm package.
+This project just converting prebuilt deb package to rpm package.
 ```
 git clone --depth 1 https://github.com/fatihusta/OpenWebStartRPM.git
 ```
@@ -24,4 +26,3 @@ You can install package via dnf or yum with dependencies.
 ```
 sudo dnf install OpenWebStart-1.6.0-1.fc36.x86_64.rpm
 ```
-
